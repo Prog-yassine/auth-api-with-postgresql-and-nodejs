@@ -14,6 +14,7 @@ This is a simple and secure Node.js REST API built with Express.js. It supports 
 ---
 
 ## 📁 Project Structure
+```bash
 project/
 │
 ├── routes/
@@ -24,6 +25,7 @@ project/
 ├── .env # Environment variables (e.g. DB, JWT_SECRET)
 ├── server.js # Main server file
 └── package.json
+```
 
 ---
 
@@ -32,7 +34,7 @@ project/
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Prog-yassine/auth-api-with-postgresql-and-nodejs.git
-cd your-repo-name
+cd auth-api-with-postgresql-and-nodejs
 ```
 
 2. ## ⚙️ Install dependencies
