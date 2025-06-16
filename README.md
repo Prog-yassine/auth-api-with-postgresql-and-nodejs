@@ -23,7 +23,7 @@ project/
 │
 ├── postgres_connect.js # Database connection file
 ├── .env # Environment variables (e.g. DB, JWT_SECRET)
-├── server.js # Main server file
+├── index.js.js # Main server file
 └── package.json
 ```
 
